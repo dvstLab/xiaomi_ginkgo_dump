@@ -1,0 +1,18 @@
+## dot_ginkgo-user 11 RQ3A.210605.005 1 release-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: ginkgo
+- Brand: Xiaomi
+- Flavor: dot_ginkgo-user
+- Release Version: 11
+- Id: RQ3A.210605.005
+- Incremental: 1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/dot_ginkgo/ginkgo:11/RQ3A.210605.005/1:user/release-keys
+- OTA version: 
+- Branch: dot_ginkgo-user-11-RQ3A.210605.005-1-release-keys
+- Repo: xiaomi_ginkgo_dump
