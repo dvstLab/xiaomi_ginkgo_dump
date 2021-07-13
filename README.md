@@ -1,0 +1,18 @@
+## aosp_ginkgo-userdebug 11 RQ3A.210705.001 1625884549 test-keys
+- Manufacturer: xiaomi
+- Platform: trinket
+- Codename: ginkgo
+- Brand: Xiaomi
+- Flavor: aosp_ginkgo-userdebug
+- Release Version: 11
+- Id: RQ3A.210705.001
+- Incremental: 1625884549
+- Tags: test-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Xiaomi/ginkgo/ginkgo:11/RQ3A.210705.001/0235:userdebug/release-keys
+- OTA version: 
+- Branch: aosp_ginkgo-userdebug-11-RQ3A.210705.001-1625884549-test-keys
+- Repo: xiaomi_ginkgo_dump
